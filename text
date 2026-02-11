@@ -1,0 +1,11 @@
+fraud_detection_project/
+│
+├── app.py
+├── model.pkl           (ML model filhaal dummy )
+│
+├── templates/
+│   └── index.html
+│
+└── static/
+    ├── style.css
+    └── script.js

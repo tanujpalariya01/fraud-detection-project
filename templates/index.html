@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Online Fraud Detection System</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>Online Fraud Detection</h1>
+
+    <!-- Login Section -->
+    <div class="card">
+      <h2>Login</h2>
+      <input type="text" placeholder="Username" id="username">
+      <input type="password" placeholder="Password" id="password">
+      <button onclick="login()">Login</button>
+    </div>
+
+    <!-- Transaction Section -->
+    <div class="card">
+      <h2>Transaction Details</h2>
+      <input type="number" placeholder="Amount" id="amount">
+      <input type="text" placeholder="Sender Name" id="sender">
+      <input type="text" placeholder="Receiver Name" id="receiver">
+      <button onclick="checkFraud()">Check Transaction</button>
+    </div>
+
+    <!-- Result Section -->
+    <div class="card result" id="result">
+      <h2>Result</h2>
+      <p id="output">---</p>
+    </div>
+  </div>
+<script src="/static/script.js"></script>
+</body>
+</html>
