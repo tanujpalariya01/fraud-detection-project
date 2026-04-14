@@ -1,2 +1,2 @@
-creditcard.csv
-*.csv
+model.pkl
+fraud_data/
