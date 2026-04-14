@@ -141,11 +141,11 @@ This project uses the **Bank Account Fraud (BAF) Dataset (NeurIPS 2022)**.
 
 ## 👨‍💻 Author
 
-Sumit Tiwari
-Tanuj Palariya
-Tanay Ranjan
-Vaibhav Jaiswal
-Nitin Kargeti
+Sumit Tiwari , 
+Tanuj Palariya , 
+Tanay Ranjan , 
+Vaibhav Jaiswal , 
+Nitin Kargeti , 
 GitHub: https://github.com/tanujpalariya01
 
 
